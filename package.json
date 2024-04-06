@@ -1,6 +1,6 @@
 {
   "name": "machinelearningutilitiesbymili",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "By miliodosik",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Miliodosik/-Machine-Learning-Utilities.git"
   },
-  "keywords":[
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
   "author": "miliodosik",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "blockchainintegrationbymili": "^1.0.0"
+  }
 }
